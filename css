@@ -1,0 +1,13 @@
+*{margin:0}
+.demo1{height:980px;background-image:url(http://cdn.pcbeta.attachment.inimc.com/data/attachment/forum/201301/29/1705102b4l12intb0zwxbq.jpg);background-position:center;}
+.center{padding-top:200px}
+h1{font-size:5em;font-family:}
+.img-rounded{width:20%;height:20%}
+.left{width:40%;float:left;margin:300px 40px;margin-left:150px}
+.right{margin-top:300px;margin-right:0px}
+.int{font-size:1.2em}
+.demo3{height:980px;background-image:url(http://cdn.pcbeta.attachment.inimc.com/data/attachment/forum/201410/13/150529virici6oirhgzccg.jpg);background-position:center;}
+.int2{padding-top:200px}
+.p1{width:400px}
+.demo4{height:450px;background-image:url();background-position:center;margin-top:0px;padding-top:50px}
+.demo4{border:5px solid gray}
